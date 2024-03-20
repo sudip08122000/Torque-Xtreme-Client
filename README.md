@@ -31,7 +31,7 @@ https://torque-xtreme.web.app
 
 ### Server side repo link:
 
-https://github.com/shohan-pherones/torque-xtreme-server.git
+https://github.com/sudip08122000/Torque-Xtreme-Server
 
 ### Tools:
 
